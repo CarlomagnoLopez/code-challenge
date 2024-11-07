@@ -29,6 +29,20 @@ This exercise is meant showcase your creativity and talent in problem solving ag
 * Functional Tests of the UI
 
 
-## Test 
+## local API instalation 
 
-* User API (https://6724177d493fac3cf24d1935.mockapi.io/up)
+* Open terminal in `/api` folder 
+* Type nvm install
+* Type nvm use
+* Type npm install 
+* Type npm run dev
+
+## local Client instalation 
+
+* Open terminal in `/client` folder
+* Type nvm use
+* Type npm install 
+* Type npm start
+
+
+
